@@ -55,6 +55,15 @@
 	$ git status
 	$ git add . 
 	$ git commit -m "added a submodule"
+
+5) 	git checkout -b gh-pages
+	git branch
+	touch index.html
+	git status
+	git add . 
+	git commit -m'добавление файла и ветки'
+	git remote add origin https://github.com/T-Dima/jsStudy.git
+	git push -u origin master
 	
 	
 	
