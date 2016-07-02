@@ -20,7 +20,7 @@
 	git checkout master
 	git branch
 	git megre architecture
-	git branch -d architecture
+	git branch -d architecture удалить ветку
 
 
 
@@ -37,7 +37,16 @@
 	добавил файл в папку first third.txt
 	git status
 	git commit -m "add third.txt"
+	git chackout master
+	git merge support
+	git branch -d architecture удалить ветку
 
+3)	создал файл fifth.txt
+	git status
+	git add .
+	git commit -m"add fifth"
+	
+	
 	
 
 
