@@ -45,6 +45,9 @@
 	git status
 	git add .
 	git commit -m"add fifth"
+	git tag v0
+	mkdir e
+	git push e master --tags
 	
 	
 	
