@@ -48,6 +48,13 @@
 	git tag v0
 	mkdir e
 	git push e master --tags
+
+4) 	git submodule status --recursive
+	$ git submodule add https://github.com/skybaros/Hello-World.git submodule-example
+	$ git submodule status
+	$ git status
+	$ git add . 
+	$ git commit -m "added a submodule"
 	
 	
 	
